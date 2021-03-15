@@ -1,0 +1,6 @@
+<?php
+define('DATABASE_NAME','{DBASENAME2}');
+define('DATABASE_USER', '{DBASEUNAME2}');
+define('DATABASE_PASSWORD', '{DBASEPASS2}');
+define('DATABASE_HOST', '{DBASEADDRESS}');
+?>
